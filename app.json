@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "scheme": "myapp",
+    "plugins": ["expo-router", "expo-font"],
+    "name": "job-liner",
+    "slug": "job-liner",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "automatic"
+  }
+}
